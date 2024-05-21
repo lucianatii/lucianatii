@@ -1,7 +1,7 @@
 <h1 align="left">Planeta Terra chamando 🌏</h1>
 
 <div align="left">
-  <p>👋 Oiê! eu sou a Luciana</p>
+  <p>👋 Oiê! Eu sou a Luciana</p>
   
   <p>💻 Desenvolvedora Front-End</p>
 

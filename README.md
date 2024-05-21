@@ -1,13 +1,15 @@
 <h1 align="left">Planeta Terra chamando 🌏</h1>
 
 <div align="left">
-  <p>👋 Luciana</p>
+  <p>👋 Oiê! eu sou a Luciana</p>
   
   <p>💻 Desenvolvedora Front-End</p>
 
-  <p>🌱 Aprimorando C# e React Native</p>
+  <p>☕ Viciada em café </p>
 
-  <p>☕ Bem vindo (a) ao meu GitHub</p>
+  <p>🌱 Aprimorando meus conhecimentos em C# e React Native 💪</p>
+
+  
   <br>
 <br>
   <img src="tecnologias.png"  min-width="400px" max-width="400px" width="300px" align="left" alt="Conhecimentos"/>

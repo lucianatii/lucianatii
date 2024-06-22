@@ -1,4 +1,4 @@
-<h1 align="left">Planeta Terra chamando 🌏</h1>
+<h1 align="left">Hello World! 🌏</h1>
 
 <div align="left">
   <p>👋 Oiê! Eu sou a Luciana</p>

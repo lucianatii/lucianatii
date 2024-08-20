@@ -7,7 +7,7 @@
 
   <p>☕ Viciada em café </p>
 
-  <p>🌱 Aprimorando meus conhecimentos em C# e React Native 💪</p>
+  <p>🌱 Aprimorando meus conhecimentos em React 💪</p>
 
   
   <br>

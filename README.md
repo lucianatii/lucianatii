@@ -34,7 +34,4 @@
 <br>
 <img src="barra1.png" width="540px" align="center" height="15px" alt="Barra"/>
 <br>
-<br>
-<br>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=02dejulho&layout=compact&theme=dark' />

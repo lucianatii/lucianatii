@@ -34,4 +34,8 @@
 <br>
 <img src="barra1.png" width="540px" align="center" height="15px" alt="Barra"/>
 <br>
-
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianatii&show_icons=true&layout=compact&theme=dark" />
+</a> 
+</p>
